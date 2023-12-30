@@ -23,7 +23,7 @@ export default function Partners() {
                                 <h1 className="leading-none text-3xl font-bold text-white">Code Share</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                      Code Share, it offers an ideal platform for developers to share their projects, interact with other developers and sell their projects for money, exploring many projects in different categories and software languages.
+                                      Code Share, geliştiricilerin projelerini paylaşmaları, diğer geliştiricilerle etkileşime girmeleri ve projelerini para karşılığında satmaları, farklı kategorilerde ve yazılım dillerinde birçok projeyi keşfetmeleri için ideal bir platform sunar.
                                     </p>
                                 </div>     
                             </div>
@@ -38,7 +38,7 @@ export default function Partners() {
                             <img className="https://discordapp.com/channels/1188363544694104064/1188435656234516480/1190580428088811580
 " />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">Nodesty VDS</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">TKH</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
                                   Discord'ta aktif ve canlı sohbetin oldu tek yer. Her hafta çekiliş ve özel botlar bulunan bir sunucuya neden katılmak istemiyorsunuz?
