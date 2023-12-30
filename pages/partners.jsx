@@ -35,7 +35,8 @@ export default function Partners() {
                             <div className="flex flex-col justify-center text-white rounded">
             <a href="https://discord.gg/tkh">
                         <div className="https://discordapp.com/channels/1188363544694104064/1188435656234516480/1190580428088811580">
-                            <img className="rounded-full h-32 w-32" src="https://media.discordapp.net/attachments/1172657853056684102/1172671829673005146/maskot_profil_alev.png" />
+                            <img className="https://discordapp.com/channels/1188363544694104064/1188435656234516480/1190580428088811580
+" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Nodesty VDS</h1>        
                                 <div className="flex items-center mt-1">
