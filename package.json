@@ -1,6 +1,6 @@
 {
-    "name": "MusicMaker",
-    "version": "5.0.0",
+    "name": "MuG",
+    "version": "1.0.0",
     "scripts": {
         "dev": "next dev",
         "build": "next build",
