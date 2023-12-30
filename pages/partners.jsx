@@ -33,14 +33,14 @@ export default function Partners() {
 
 
                             <div className="flex flex-col justify-center text-white rounded">
-            <a href="https://codeshare.me/partners/64db583a4292ca1066ad0a1b">
-                        <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
+            <a href="https://discord.gg/tkh">
+                        <div className="https://discordapp.com/channels/1188363544694104064/1188435656234516480/1190580428088811580">
                             <img className="rounded-full h-32 w-32" src="https://media.discordapp.net/attachments/1172657853056684102/1172671829673005146/maskot_profil_alev.png" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Nodesty VDS</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                   DISCOUNT CODE: CODESHARE Experience uninterrupted internet speed up to 10Gb and cheap intel i9, amd ryzen series vds with Nodesty. Shop with Code Share assurance.
+                                  Discord'ta aktif ve canlı sohbetin oldu tek yer. Her hafta çekiliş ve özel botlar bulunan bir sunucuya neden katılmak istemiyorsunuz?
                                     </p>
                                 </div>     
                             </div>
