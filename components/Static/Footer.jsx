@@ -78,7 +78,7 @@ export default function Footer() {
                             </div>
                         </div>
                         <div className="col-span-1">
-                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Önemli Metinle</p>
+                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Önemli Metinler</p>
                             <div>
                                 <Link href="/tos">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
