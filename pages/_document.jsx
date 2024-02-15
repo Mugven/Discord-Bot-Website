@@ -14,9 +14,9 @@ class MyDocument extends Document {
             content="Selam ben Moderasyon ve Eğlence botuyum sunucuna eklemek veya destek almak için websitemi ziyaret et!"
           />
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:site" content="@MusicMaker" />
+          <meta name="twitter:site" content="@MuG" />
           <meta name="twitter:creator" content="@MuG" />
-          <meta property="og:url" content="https://mug.com" />
+          <meta property="og:url" content="https://mug-bot-mu-g.vercel.app/" />
           <meta property="og:type" content="website" />
           <meta property="og:title" content="MuG" />
           <link
@@ -28,7 +28,7 @@ class MyDocument extends Document {
             property="og:description"
             content="Selam ben Moderasyon ve Eğlence botuyum sunucuna eklemek veya destek almak için websitemi ziyaret et!"
           />
-          <meta property="og:image" content="/img/logo.jpg" />
+          <meta property="og:image" content="/img/LOGO.PNG" />
           <meta property="og:image:alt" content="MuG" />
           <meta property="og:locale" content="en_GB" />
           <meta
@@ -36,7 +36,7 @@ class MyDocument extends Document {
             content="MuG"
           />
           <meta name="theme-color" content="#087ddd" />
-          <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />
+          <link rel="icon" href="/img/LOGO.PNG" type="image/x-icon" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
             rel="stylesheet"
