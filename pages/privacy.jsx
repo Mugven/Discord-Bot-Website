@@ -11,7 +11,7 @@ export default function Privacy() {
         <div className="py-3"></div>
         <p>⊳ Her kullanıcı, zarar verme niyetinde olmadığı sürece MuG botunu dilediği gibi kullanabilir.</p>
         <div className="py-3"></div>
-        <p>⊳ MusicMaker'ı kullanırken belirli komutları aynı anda kullanamazsınız.</p>   
+        <p>⊳ MuG'u kullanırken belirli komutları aynı anda kullanamazsınız.</p>   
         <div className="py-3"></div>
         <p>⊳ MuG botu kullanıcılara dayalı hiçbir veriyi kaydetmez.</p>
         <div className="py-3"></div>
