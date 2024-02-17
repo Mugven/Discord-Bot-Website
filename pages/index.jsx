@@ -12,7 +12,7 @@ export default function Index() {
           MuG
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       Kendi sunucunuzu MuG ile yönetmeye ne dersiniz? Kendi özgür dünyanızı yaratın ve kendi çalma listenizi oluşturun, bu keyfi deneyimleyin. 
+       Kendi sunucunuzu MuG ile yönetmeye ne dersiniz? Kendine özgü sunucunu kur ve MuG ile sunucunun güvenliğini sağla, bu keyfi deneyimleyin. 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
